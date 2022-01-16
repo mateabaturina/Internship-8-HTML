@@ -54,17 +54,23 @@
     letter-spacing: 0.6px;
 }
 
+.text_box {
+    position: absolute;
+    color: #fff;
+    margin-top: 270px;
+    margin-left: 40px;
+    width: 500px;
+    height: 244px;
+}
+
 .textThree {
-    margin-bottom: 20px;
     font-family: 'Brandon Grotesque', Arial, sans-serif;
     color: #fff;
     font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
     position: absolute;
-    bottom: 8px;
-    left: 16px;
-    transform: translate(-50%, -50%);
+    
 }
 
 .textFour {
@@ -74,9 +80,6 @@
     line-height: 36px;
     font-weight: 300;
     position: absolute;
-    bottom: 8px;
-    left: 16px;
-    transform: translate(-50%, -50%);
 }
 
 .noUnderline {
