@@ -83,7 +83,7 @@
 }
 
 .header {
-    display: inline-block;
+    display:flex;
   }
 
 .boxOne {
@@ -117,6 +117,9 @@
     width: 500px;
     margin-left: 235px;
     margin-right: 30px;
+    border-bottom-style: solid;
+    border-bottom-width: 8px;
+    border-bottom-color: #ffc40c;
     float: left;
 }
 
@@ -124,6 +127,9 @@
 
     height: 300px;
     width: 500px;
+    border-bottom-style: solid;
+    border-bottom-width: 8px;
+    border-bottom-color: #ffc40c;
     
 }
 
