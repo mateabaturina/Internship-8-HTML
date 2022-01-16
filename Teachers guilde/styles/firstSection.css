@@ -88,28 +88,20 @@
   }
 
 .boxOne {
-    height: 0px;
-    margin-top: 60px;
-    margin-left: 280px;
-    margin-right: 870px;
+    margin-left: 150px;
     margin-bottom: 60px;
     padding-top: 150px;
     padding-right: 60px;
     padding-left: 45px;
-    padding-bottom: 350px;
+    padding-bottom: 248px;
     background-color: #fff;
     float: left;
 }
 
 .image {
     height: 488px;
-    width: 590px;
-    margin-top: 0px;
-    margin-left: 374px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    float: left;
-    
+    width: 590px;  
+    margin-bottom: 60px;
 }
 
 .boxTwopoint {
@@ -122,10 +114,11 @@
 .imageTwo {
     height: 300px;
     width: 500px;
-    float: left;
+
 }
 
 .imageThree {
+
     height: 300px;
     width: 500px;
     
