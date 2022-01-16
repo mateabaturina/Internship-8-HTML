@@ -92,18 +92,28 @@
 
 .boxOne {
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 250px;
+    width: 300px;
+    height: 488px;
     margin-bottom: 60px;
-    padding-top: 150px;
     padding-right: 60px;
     padding-left: 45px;
-    padding-bottom: 248px;
     background-color: #fff;
     float: left;
 }
 
+.text_box_One {
+    position: absolute;
+    color: #fff;
+    margin-top: 150px;
+    margin-left: 10px;
+    width: 300px;
+    height: 244px;
+}
+
 .image {
     margin-top: 50px;
+    margin-right: 500px;
     height: 488px;
     width: 590px;  
     margin-bottom: 60px;
