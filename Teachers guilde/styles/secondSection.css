@@ -1,0 +1,22 @@
+.secondSectionBackground {
+    background-color: #f4f4f2;
+}
+
+.leftAllignedText {
+    font-size: 40px;
+    line-height: 48px;
+    text-align: left;
+}
+
+.imageSectionTwo {
+    height: 402px;
+    width: 785px;
+}
+
+.boxTwo {
+    padding: 48px 133px;
+    background-color: #ffc40c;
+    width: 450px;
+    float: left;
+    overflow: hidden;
+}
